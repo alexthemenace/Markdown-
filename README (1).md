@@ -1,22 +1,20 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
-</h1>
 
-<h3 align="center">A passionate software developer from El Salvador 🇨🇦</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1000&pause=1000&color=006900&width=435&lines=Hi+my+name+is+Alex!%F0%9F%91%BE;I+love+to+code+Python+%F0%9F%90%8D;HI+DENIS!)](https://git.io/typing-svg)
+
+<h3 align="center">A passionate software developer from El Salvador</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Python Games**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **How to make a calculator in python**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **HI DENIS**
 
  </div>
  
@@ -73,11 +71,3 @@
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 <br/>
-
-<div align="center">
-  <h2>🐍 Snake Game 🐍</h2>
-  <br>
-  <img alt="snake game" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-game.svg" />
-  
-  <br/><br/><br/>
-</div>
