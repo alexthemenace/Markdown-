@@ -51,54 +51,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexthemenace&show_icons=true&theme=radical)](https://github.com/alexthemenace)
 
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://traktra.in/t/2s8YzRzPHr' target='_blank'><img height='64' style='border:0px;height:64px;' src='Al.png' border='0' alt='Listen/buy my track for $1!' /></a>
-</div>
-<br/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexthemenace&show_icons=true&theme=radical)](https://github.com/alexthemenace)
-
-<br/><br/>
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexthemenace&show_icons=true&theme=radical&count_private=true)](https://github.com/alexthemenace)
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://traktra.in/t/2s8YzRzPHr' target='_blank'><img height='64' style='border:0px;height:64px;' src='Al.png' border='0' alt='Listen/buy my track for $1!' /></a>
-</div>
-<br/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <a href="https://github.com/alexthemenace">
-    <img src="https://github-readme-stats.vercel.app/api?username=alexthemenace&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/alexthemenace">
-    <img src="https://github-readme-stats.vercel.app/api?username=alexthemenace&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  </a>
-</div>
-<br/><br/>
-<div align="center">
-  <a href='https://traktra.in/t/2s8YzRzPHr' target='_blank'>
-    <img height='64' style='border:0px;height:64px;' src='Al.png' border='0' alt='Listen/buy my track for $1!' />
-  </a>
-</div>
-<br/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
@@ -119,7 +72,7 @@
   </a>
 </div>
 
-<!DOCTYPE html>
+
 <html>
 <head>
   <style>
