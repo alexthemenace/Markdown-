@@ -53,12 +53,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexthemenace&show_icons=true&theme=radical)](https://github.com/alexthemenace)
 
 <br/><br/>
 
@@ -70,3 +65,213 @@
 <a href='https://traktra.in/t/2s8YzRzPHr' target='_blank'><img height='64' style='border:0px;height:64px;' src='Al.png' border='0' alt='Listen/buy my track for $1!' /></a>
 </div>
 <br/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexthemenace&show_icons=true&theme=radical)](https://github.com/alexthemenace)
+
+<br/><br/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexthemenace&show_icons=true&theme=radical&count_private=true)](https://github.com/alexthemenace)
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://traktra.in/t/2s8YzRzPHr' target='_blank'><img height='64' style='border:0px;height:64px;' src='Al.png' border='0' alt='Listen/buy my track for $1!' /></a>
+</div>
+<br/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <a href="https://github.com/alexthemenace">
+    <img src="https://github-readme-stats.vercel.app/api?username=alexthemenace&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/alexthemenace">
+    <img src="https://github-readme-stats.vercel.app/api?username=alexthemenace&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  </a>
+</div>
+<br/><br/>
+<div align="center">
+  <a href='https://traktra.in/t/2s8YzRzPHr' target='_blank'>
+    <img height='64' style='border:0px;height:64px;' src='Al.png' border='0' alt='Listen/buy my track for $1!' />
+  </a>
+</div>
+<br/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <a href="https://github.com/alexthemenace">
+    <img src="https://github-readme-stats.vercel.app/api?username=alexthemenace&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/alexthemenace">
+    <img src="https://github-readme-stats.vercel.app/api?username=alexthemenace&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  </a>
+</div>
+<br/><br/>
+<hr/>
+<br/>
+<div align="center">
+  <a href='https://traktra.in/t/2s8YzRzPHr' target='_blank'>
+    <img height='64' style='border:0px;height:64px;' src='Al.png' border='0' alt='Listen/buy my track for $1!' />
+  </a>
+</div>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .calculator {
+      border: 1px solid #ccc;
+      padding: 10px;
+      width: 200px;
+      margin: 0 auto;
+    }
+    .calculator input {
+      width: 100%;
+      padding: 10px;
+      margin: 5px 0;
+      box-sizing: border-box;
+    }
+    .calculator button {
+      width: 48%;
+      padding: 10px;
+      margin: 5px 1%;
+      box-sizing: border-box;
+    }
+  </style>
+</head>
+<body>
+
+<div class="calculator">
+  <input type="text" id="display" disabled>
+  <br>
+  <button onclick="appendNumber('1')">1</button>
+  <button onclick="appendNumber('2')">2</button>
+  <button onclick="appendNumber('3')">3</button>
+  <button onclick="appendOperator('+')">+</button>
+  <br>
+  <button onclick="appendNumber('4')">4</button>
+  <button onclick="appendNumber('5')">5</button>
+  <button onclick="appendNumber('6')">6</button>
+  <button onclick="appendOperator('-')">-</button>
+  <br>
+  <button onclick="appendNumber('7')">7</button>
+  <button onclick="appendNumber('8')">8</button>
+  <button onclick="appendNumber('9')">9</button>
+  <button onclick="appendOperator('*')">*</button>
+  <br>
+  <button onclick="appendNumber('0')">0</button>
+  <button onclick="clearDisplay()">C</button>
+  <button onclick="calculateResult()">=</button>
+  <button onclick="appendOperator('/')">/</button>
+</div>
+
+<script>
+  function appendNumber(number) {
+    document.getElementById('display').value += number;
+  }
+
+  function appendOperator(operator) {
+    document.getElementById('display').value += ' ' + operator + ' ';
+  }
+
+  function clearDisplay() {
+    document.getElementById('display').value = '';
+  }
+
+  function calculateResult() {
+    const display = document.getElementById('display');
+    display.value = eval(display.value);
+  }
+</script>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .calculator {
+      border: 1px solid #ff073a;
+      padding: 10px;
+      width: 200px;
+      margin: 0 auto;
+      background-color: #1a1a1a;
+      color: #ff073a;
+      font-family: Arial, sans-serif;
+    }
+    .calculator input {
+      width: 100%;
+      padding: 10px;
+      margin: 5px 0;
+      box-sizing: border-box;
+      background-color: #333;
+      color: #ff073a;
+      border: 1px solid #ff073a;
+    }
+    .calculator button {
+      width: 48%;
+      padding: 10px;
+      margin: 5px 1%;
+      box-sizing: border-box;
+      background-color: #333;
+      color: #ff073a;
+      border: 1px solid #ff073a;
+      cursor: pointer;
+    }
+    .calculator button:hover {
+      background-color: #ff073a;
+      color: #1a1a1a;
+    }
+  </style>
+</head>
+<body>
+
+<div class="calculator">
+  <input type="text" id="display" disabled>
+  <br>
+  <button onclick="appendNumber('1')">1</button>
+  <button onclick="appendNumber('2')">2</button>
+  <button onclick="appendNumber('3')">3</button>
+  <button onclick="appendOperator('+')">+</button>
+  <br>
+  <button onclick="appendNumber('4')">4</button>
+  <button onclick="appendNumber('5')">5</button>
+  <button onclick="appendNumber('6')">6</button>
+  <button onclick="appendOperator('-')">-</button>
+  <br>
+  <button onclick="appendNumber('7')">7</button>
+  <button onclick="appendNumber('8')">8</button>
+  <button onclick="appendNumber('9')">9</button>
+  <button onclick="appendOperator('*')">*</button>
+  <br>
+  <button onclick="appendNumber('0')">0</button>
+  <button onclick="clearDisplay()">C</button>
+  <button onclick="calculateResult()">=</button>
+  <button onclick="appendOperator('/')">/</button>
+</div>
+
+<script>
+  function appendNumber(number) {
+    document.getElementById('display').value += number;
+  }
+
+  function appendOperator(operator) {
+    document.getElementById('display').value += ' ' + operator + ' ';
+  }
+
+  function clearDisplay() {
+    document.getElementById('display').value = '';
+  }
+
+  function calculateResult() {
+    const display = document.getElementById('display');
+    display.value = eval(display.value);
+  }
+</script>
+
+</body>
+</html>
