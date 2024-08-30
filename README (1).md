@@ -58,10 +58,7 @@
   <a href="https://github.com/alexthemenace">
     <img src="https://github-readme-stats.vercel.app/api?username=alexthemenace&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
-  <br/><br/>
-  <a href="https://github.com/alexthemenace">
-    <img src="https://github-readme-stats.vercel.app/api?username=alexthemenace&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  </a>
+  
 </div>
 <br/><br/>
 <hr/>
